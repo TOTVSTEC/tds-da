@@ -1,14 +1,19 @@
 {
-  "name": "tds-da",
+  "name": "@totvs/tds-da",
   "version": "1.0.0",
   "description": "Totvs Debug Adapter",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TOTVSTEC/tds-da.git"
+    "url": "git+https://github.com/TOTVSTEC/tds-da.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "TOTVS S.A.",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TOTVSTEC/tds-da/issues"
+  },
+  "homepage": "https://github.com/TOTVSTEC/tds-da#readme",
+  "main": "index.js"
 }
